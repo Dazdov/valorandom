@@ -22,7 +22,7 @@ at this point not much is diffrent at the start of those 2 version they were com
 
 # is there any other purpose to that?
 
-originally it started as a lil bit of a competition to see who can make a faster and less biased code but considering the it was me using c vs them using java,# it was rigged from the start
+originally it started as a lil bit of a competition to see who can make a faster and less biased code but considering the it was me using c vs them using java,it was rigged from the start to say the least.
 
 
 # i will try to update it according to updates of the game in the future and will try to integrade abilities to it (might migrate to c++ or python) stay tuned!
