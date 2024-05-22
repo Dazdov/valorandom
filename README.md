@@ -1,4 +1,4 @@
-# <a href="https://github.com/Dazdov/valorandom/blob/f3e2d91f02fc97855726e10e876301651ec59e8c/valo_random.exe" download>Click to Download tutel!</a>
+# <a id="raw-url" href="https://raw.githubusercontent.com/github-Dazdov/valorandom/master/valo_random.exe">Download FILE</a>
 
 
 
