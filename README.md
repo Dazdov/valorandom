@@ -3,7 +3,7 @@
 
 
 
-# [download my edition!](https://github.com/Dazdov/valorandom/blob/main/valo_random.exe)
+# [download my edition!]([https://github.com/Dazdov/valorandom/blob/main/valo_random.exe](https://github.com/Dazdov/valorandom/blob/f3e2d91f02fc97855726e10e876301651ec59e8c/valo_random.exe))
 
 # what is valorandom
 
