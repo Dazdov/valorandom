@@ -1,3 +1,6 @@
+[download tutel's edition!][https://github.com/Dazdov/valorandom/blob/main/valorand_tutel_edition.exe]
+[download my edition!][https://github.com/Dazdov/valorandom/blob/main/valo_random.exe]
+
 # what is valorandom
 
 
