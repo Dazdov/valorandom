@@ -21,7 +21,7 @@ just run either of the exe files or make edits to the code!
 one of them is using my version of odds while the other uses my friend's "tutel"
 
 
-# i dont see noticable diffrence?
+# i dont see noticable any diffrence between the two?
 
 
 at this point not much is diffrent at the start of those 2 version they were completely diffrent but over the course of a couple of months i refined both our codes to be a lil bit better but still keeping those 2 seperate files in case one of us wants to change it, tutel is not a c dev this version is rewritten in c by me from java
