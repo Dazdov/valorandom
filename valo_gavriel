@@ -1,0 +1,30 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+  int money = 1;
+  
+  while (1)
+  {
+    printf("Enter amount of money: ");
+    scanf("%d", &money);
+    if (money < 0)
+    {
+      printf("Huh?\n");
+      break;
+    }
+    else if (money == 9999)
+    {
+      printf("You get Mr Beast's shield");
+    }
+    else
+    {
+      printf("No shield... :(\n");
+    }
+        
+  }
+
+  printf("Thanks for playing!\n");
+  return 0;
+}
