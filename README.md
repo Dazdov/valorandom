@@ -1,9 +1,9 @@
-# <a id="raw-url" href="https://raw.githubusercontent.com/github-Dazdov/valorandom/master/valo_random.exe">Download FILE</a>
+# <a id="raw-url" href="https://raw.githubusercontent.com/Dazdov/valorandom/main/valo_random.exe">Download my ver <3</a>
 
 
 
 
-# [download my edition!](https://github.com/Dazdov/valorandom/blob/f3e2d91f02fc97855726e10e876301651ec59e8c/valo_random.exe)
+# <a id="raw-url" href="https://raw.githubusercontent.com/Dazdov/valorandom/main/valorand_tutel_edition.exe">Download my friend's ver!!</a>
 
 # what is valorandom
 
