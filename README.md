@@ -1,4 +1,4 @@
-# [download tutel's edition!](https://github.com/Dazdov/valorandom/blob/b914d60fc11cc7a6fde1f0fe18999050117c5120/valorand_tutel_edition.exe)
+# <a href="https://github.com/Dazdov/valorandom/blob/f3e2d91f02fc97855726e10e876301651ec59e8c/valo_random.exe" download>Click to Download tutel!</a>
 
 
 
